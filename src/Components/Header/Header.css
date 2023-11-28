@@ -1,0 +1,28 @@
+body{
+    color: #333;
+    font-family: sans-serif, Arial;
+    font-size: 1.6rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+.navbar{
+    height: 70px;
+    background-color: #d81266;
+}
+
+.nav-item a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin: 5px;
+    font-weight: 500;
+}
+.nav-item a:hover{
+    color: #fff;
+}
+.navbarbrand_logo h3{
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 35px;
+    color: #fff;
+}

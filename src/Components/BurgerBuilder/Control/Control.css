@@ -1,0 +1,18 @@
+.card{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.cardheader{
+    background-color: #d81266 !important;
+    color: #fff;
+}
+.orderButton{
+    background-color: #d81266 !important;
+    color: #fff;
+}
+.orderButton:focus{
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}

@@ -1,0 +1,14 @@
+.checkoutBtn {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-align: center;
+    text-decoration: none;
+}
+.cancelBtn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    background-color: #d81266 !important;
+}

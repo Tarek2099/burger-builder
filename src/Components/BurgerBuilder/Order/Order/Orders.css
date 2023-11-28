@@ -1,0 +1,9 @@
+.table th{
+    width: 18%;
+    text-align: left;
+}
+.table td{
+    width: 13.3%;
+    text-align: left;
+}
+

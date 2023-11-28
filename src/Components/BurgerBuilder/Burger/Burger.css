@@ -1,0 +1,16 @@
+.container.Burger {
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    overflow-y: scroll;
+}
+.container.Burger::-webkit-scrollbar{
+    display: none;
+}
+.container.Burger{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
